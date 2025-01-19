@@ -1,0 +1,21 @@
+1. Homepage (index.tsx)
+   ├── Header (Navigation Bar)
+   ├── ProductCards (Featured Products)
+   ├── SearchBar (Product Search)
+   └── Filter (Category and Price Filter)
+   
+2. Product Detail Page (/product/[id].tsx)
+   ├── Dynamic Product Info (Image, Name, Price, Description)
+   └── Add to Cart Button
+
+3. Cart Page (cart.tsx)
+   ├── CartItems (List of Products Added)
+   ├── Total Price
+   └── Checkout Button
+
+4. Footer (Footer.tsx)
+   └── Contact Information
+
+5. Cart Context (useState or useContext)
+   └── Add/Remove Products from Cart
+
